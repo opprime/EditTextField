@@ -1,1 +1,2 @@
 # EditTextWithClear
+Android端带删除按钮的EditText输入框，模仿苹果IOS的输入框的属性clearButtonMode
