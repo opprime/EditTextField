@@ -11,7 +11,7 @@ version = "1.0.0"
 android {
     compileSdkVersion 22
     buildToolsVersion "23.0.1"
-    resourcePrefix "edittextfield_"     //这里随便填
+    resourcePrefix "optimus_"     //这里随便填
 
     defaultConfig {
         minSdkVersion 11
@@ -36,7 +36,8 @@ dependencies {
 
 def siteUrl = 'https://github.com/opprime'   // 项目的主页
 def gitUrl = 'git@github.com:opprime/EditTextField.git'   // Git仓库的url
-group = "com.edittextfield"            // Maven Group ID for the artifact，一般填你唯一的包名
+group = "com.optimus"            // Maven Group ID for the artifact，一般填你唯一的包名
+
 install {
     repositories.mavenInstaller {
         // This generates POM.xml with proper parameters
@@ -44,7 +45,7 @@ install {
             project {
                 packaging 'aar'
                 // Add your description here
-                name 'Android CrashCatcher'     //项目的描述 你可以多写一点
+                name 'Android端自定义EditText控件'     //项目的描述 你可以多写一点
                 url siteUrl
                 // Set your license
                 licenses {

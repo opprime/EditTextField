@@ -9,5 +9,5 @@
 
 ###Android Studio用户可在Gradle中添加：
 ```groovy
-compile 'com.edittextfield:edittextfield:1.0.0'
+compile 'com.optimus:edittextfield:1.0.0'
 ```
