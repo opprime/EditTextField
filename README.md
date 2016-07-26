@@ -1,4 +1,4 @@
-[![Download](https://api.bintray.com/packages/opprime/maven/EditTextField/images/download.svg)](https://bintray.com/opprime/maven/EditTextField/_latestVersion)
+[![Download](https://api.bintray.com/packages/opprime/maven/edittextfield/images/download.svg)](https://bintray.com/opprime/maven/edittextfield/_latestVersion)
 
 ## EditTextField 介绍：
 - **删除按钮仿苹果IOS的TextField，可通过设置属性clearButtonMode来设置按钮显示方式**
