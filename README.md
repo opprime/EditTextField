@@ -1,2 +1,2 @@
-# EditTextWithClear
-Android端带删除按钮的EditText输入框，模仿苹果IOS的输入框的属性clearButtonMode
+# EditTextField 介绍：
+- **删除按钮仿苹果IOS的TextField，可通过设置属性clearButtonMode来设置按钮显示方式**
