@@ -9,7 +9,5 @@
 
 ###Android Studio用户可在Gradle中添加：
 ```groovy
-dependencies{
-    compile 'com.edittextfield:edittextfield:1.0.0'
-}
+compile 'com.edittextfield:edittextfield:1.0.0'
 ```
