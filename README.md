@@ -13,3 +13,10 @@
 ```groovy
 compile 'com.optimus:editTextField:0.1.0'
 ```
+
+###然后在布局文件的根下，添加:
+xmlns:app="http://schemas.android.com/apk/res-auto"
+
+
+###EditFieldField属性介绍
+- **app:clearButtonMode，设置清除按钮的显示方式:never(不显示清空按钮), always(始终显示清空按钮), whileEditing(输入框内容不为空且有获得焦点), unlessEditing(输入框内容不为空且没有获得焦点)**
