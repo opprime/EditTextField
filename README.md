@@ -25,4 +25,4 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
     - *always：始终显示清空按钮*
     - *whileEditing：输入框内容不为空且有获得焦点*
     - *unlessEditing：输入框内容不为空且没有获得焦点*
-- *```app:clearButtonDrawable```，可自定义设置清除按钮的图片。不设置此属性值时，使用默认图片。
+- *```app:clearButtonDrawable```，可自定义设置清除按钮的图片。不设置此属性值时，使用默认图片。*
