@@ -21,7 +21,7 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
 
 ### 3. EditFieldField属性介绍:
 - *```app:clearButtonMode```，设置清除按钮的显示方式，其值如下:*
-    - *never：不显示清空按钮*
+    - *never：不显示清空按钮 (默认)*
     - *always：始终显示清空按钮*
     - *whileEditing：输入框内容不为空且有获得焦点*
     - *unlessEditing：输入框内容不为空且没有获得焦点*
