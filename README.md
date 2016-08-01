@@ -11,7 +11,7 @@
 
 ### 1. Android Studio用户可在Gradle中添加：
 ```groovy
-compile 'com.optimus:editTextField:0.1.0'
+compile 'com.optimus:editTextField:0.2.0'
 ```
 
 ### 2. 然后在布局文件的根下，添加:
