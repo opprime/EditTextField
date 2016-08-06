@@ -26,3 +26,8 @@ xmlns:app="http://schemas.android.com/apk/res-auto"
     - *whileEditing：输入框内容不为空且有获得焦点*
     - *unlessEditing：输入框内容不为空且没有获得焦点*
 - *```app:clearButtonDrawable```，可自定义设置清除按钮的图片。不设置此属性值时，使用默认图片。*
+
+
+
+### 效果展示：
+<img src="demoScreenShot.gif" alt="输入内容前" title="输入内容前" width="270" height="486" />
