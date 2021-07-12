@@ -12,13 +12,13 @@ import android.os.Build;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
-import android.widget.EditText;
+import androidx.appcompat.widget.AppCompatEditText;
 
 
 /**
  * Created by opprime on 16-7-21.
  */
-public class EditTextField extends EditText {
+public class EditTextField extends AppCompatEditText {
     private Context mContext;
     private Bitmap mClearButton;
     private Paint mPaint;
